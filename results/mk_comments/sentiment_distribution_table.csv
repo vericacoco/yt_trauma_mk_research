@@ -1,0 +1,4 @@
+﻿dataset,model,NEG%,NEU%,POS%
+mk_comments,NLPTown,69.48,6.82,23.7
+mk_comments,Cardiff,41.14,47.42,11.44
+mk_comments,BERTweet,0.02,99.88,0.09

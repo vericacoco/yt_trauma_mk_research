@@ -1,0 +1,16 @@
+{
+  "distribution": {
+    "cardiff": {
+      "negative": 377,
+      "neutral": 781,
+      "positive": 56
+    },
+    "nlptown": {
+      "neutral": 1214
+    },
+    "majority": {
+      "neutral": 1214
+    }
+  },
+  "metrics_if_gold_present": {}
+}

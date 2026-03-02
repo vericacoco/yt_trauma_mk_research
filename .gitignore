@@ -1,0 +1,23 @@
+# datasets (large / sensitive)
+
+
+# results
+
+
+# python
+__pycache__/
+*.pyc
+
+# env
+.env
+
+# hf cache
+hf_cache/
+
+/.cache_mk2en.json
+/.cache_mk2en.json.tmp
+
+.venv/
+venv/
+
+.idea/

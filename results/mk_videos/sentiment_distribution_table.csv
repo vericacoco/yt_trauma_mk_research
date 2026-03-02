@@ -1,0 +1,4 @@
+﻿dataset,model,NEG%,NEU%,POS%
+mk_videos,NLPTown,66.11,11.76,22.12
+mk_videos,Cardiff,15.58,80.86,3.56
+mk_videos,BERTweet,0.0,100.0,0.0

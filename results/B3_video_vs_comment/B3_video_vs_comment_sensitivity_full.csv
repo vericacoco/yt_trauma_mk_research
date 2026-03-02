@@ -1,0 +1,7 @@
+﻿language,model_pair,videos_disagreement,comments_disagreement,delta_comments_minus_videos
+MK,NLPTown ↔ Cardiff,73.07,52.16,-20.91
+MK,NLPTown ↔ BERTweet,88.24,93.14,4.9
+MK,Cardiff ↔ BERTweet,19.14,52.51,33.37
+EN,NLPTown ↔ Cardiff,56.92,44.22,-12.7
+EN,NLPTown ↔ BERTweet,64.62,52.7,-11.93
+EN,Cardiff ↔ BERTweet,28.5,26.64,-1.86
