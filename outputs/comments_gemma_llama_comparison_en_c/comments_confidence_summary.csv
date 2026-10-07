@@ -1,0 +1,3 @@
+﻿model,count,mean_confidence,median_confidence,std_confidence,min_confidence,max_confidence
+Gemma,2970,0.7939189225589225,0.8,0.08341717907655469,0.3509,0.98
+Llama,4283,0.9425542843801074,0.95,0.060816598070426386,0.48,1.0

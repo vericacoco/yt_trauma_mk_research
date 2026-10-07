@@ -1,0 +1,46 @@
+ALL MODELS SENTIMENT COMPARISON
+===============================
+
+Dataset: titles
+Language: EN
+Compared examples: 1190
+
+MODELS
+------
+CardiffNLP
+NLPTown
+BERTweet
+Gemma
+Llama
+
+FULL CONSENSUS
+--------------
+Full agreement count: 238
+Full agreement percentage: 20.00%
+
+PAIRWISE AGREEMENT
+------------------
+Strongest pair: CardiffNLP vs BERTweet
+Strongest agreement: 71.26%
+
+Weakest pair: NLPTown vs BERTweet
+Weakest agreement: 35.13%
+
+MAJORITY AGREEMENT
+------------------
+Highest agreement with majority:
+Gemma: 83.38%
+
+Lowest agreement with majority:
+NLPTown: 56.19%
+
+LLM CONFIDENCE
+--------------
+Gemma mean confidence: 0.6664
+Llama mean confidence: 0.8466
+
+IMPORTANT
+---------
+The majority label is a five-model consensus label, not a manually
+annotated ground-truth label. Agreement with majority therefore measures
+model consistency with the ensemble, not true predictive accuracy.

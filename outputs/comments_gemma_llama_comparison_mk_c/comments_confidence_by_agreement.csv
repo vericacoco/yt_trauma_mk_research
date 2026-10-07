@@ -1,0 +1,3 @@
+﻿agreement,number_of_examples,gemma_mean_confidence,llama_mean_confidence,mean_absolute_confidence_difference
+agreement,2423,0.7998268675196039,0.9450433347090382,0.14765146512587696
+disagreement,1860,0.7778502742230348,0.9379569892473117,0.16017531992687384

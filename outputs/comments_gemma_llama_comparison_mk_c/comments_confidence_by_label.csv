@@ -1,0 +1,7 @@
+﻿label,number_of_examples,mean_confidence,median_confidence,model
+negative,2172,0.7785497237569061,0.8,Gemma
+neutral,219,0.7335616438356165,0.7,Gemma
+positive,579,0.883945768566494,0.85,Gemma
+negative,3068,0.9448924380704041,0.95,Llama
+neutral,271,0.8842066420664206,0.85,Llama
+positive,944,0.9490360169491525,0.95,Llama

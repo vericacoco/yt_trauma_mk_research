@@ -107,8 +107,8 @@ for ctype, model, r, c in panels:
 plt.suptitle("B5 — Cross-lingual Class Flow (EN → MK)", fontsize=16)
 plt.tight_layout()
 
-out_path = os.path.join(RESULTS_DIR, "B5_crosslingual_class_flow_EN_MK_only.svg")
-plt.savefig(out_path, format="svg")
+out_path = os.path.join(RESULTS_DIR, "B5_crosslingual_class_flow_EN_MK_only.png")
+plt.savefig(out_path, format="png")
 plt.close()
 
 print(f"✅ B5 saved → {out_path}")

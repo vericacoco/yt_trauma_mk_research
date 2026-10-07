@@ -1,0 +1,6 @@
+﻿metric,value,percentage
+total_examples,2970,100.0
+full_agreement,988,33.26599326599327
+four_or_more_models_agree,1793,60.370370370370374
+exactly_three_models_agree,855,28.78787878787879
+no_unique_majority,322,10.84175084175084

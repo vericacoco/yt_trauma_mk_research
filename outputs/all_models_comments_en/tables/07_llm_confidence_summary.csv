@@ -1,0 +1,3 @@
+﻿model,count,mean_confidence,median_confidence,std_confidence,min_confidence,max_confidence,mean_confidence_when_agrees_with_majority,mean_confidence_when_disagrees_with_majority
+Gemma,2970,0.7939189225589225,0.8,0.08341717907655469,0.3509,0.98,0.7990105285592497,0.7747764423076923
+Llama,2970,0.9427811447811446,0.95,0.06035716012268995,0.48,1.0,0.9471743742044971,0.9258890701468189

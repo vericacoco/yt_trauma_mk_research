@@ -1,0 +1,16 @@
+﻿model,label,count,percentage
+CardiffNLP,negative,1175,39.56228956228956
+CardiffNLP,neutral,1447,48.72053872053872
+CardiffNLP,positive,348,11.717171717171718
+NLPTown,negative,2079,70.0
+NLPTown,neutral,190,6.397306397306397
+NLPTown,positive,701,23.602693602693602
+BERTweet,negative,0,0.0
+BERTweet,neutral,2970,100.0
+BERTweet,positive,0,0.0
+Gemma,negative,2172,73.13131313131314
+Gemma,neutral,219,7.373737373737374
+Gemma,positive,579,19.494949494949495
+Llama,negative,2083,70.13468013468014
+Llama,neutral,181,6.094276094276094
+Llama,positive,706,23.77104377104377

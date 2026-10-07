@@ -1,0 +1,31 @@
+GEMMA VS LLAMA SENTIMENT COMPARISON
+===================================
+
+Dataset type: comments
+
+Total compared examples: 4283
+
+LABEL AGREEMENT
+---------------
+Agreement count: 2423
+Agreement percentage: 56.57%
+
+Disagreement count: 1860
+Disagreement percentage: 43.43%
+
+Cohen's Kappa: 0.5778
+
+CONFIDENCE COMPARISON
+---------------------
+Gemma mean confidence: 0.7958
+Llama mean confidence: 0.9420
+
+Gemma has higher confidence in: 65 examples
+Llama has higher confidence in: 2774 examples
+Equal confidence in: 131 examples
+
+Mean absolute confidence difference:
+0.1500
+
+Maximum absolute confidence difference:
+0.4700
